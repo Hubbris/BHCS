@@ -40,11 +40,14 @@
 - topic
 - randommeme
 - soundboard
+- coinflip
+- 8ball
 
 ## Utilities
 - userinfo
 - serverinfo
 - avatar
+- calculate
 
 ## Economy
 - balance
@@ -125,3 +128,8 @@
 ## Reaction Roles
 - addreactionrole
 - removereactionrole
+
+## Giveaways
+- creategiveaway
+- endgiveaway
+- reroll
