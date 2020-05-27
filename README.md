@@ -5,14 +5,14 @@
 - kick
 - ban
 - warn
-- warns / infractions
-- checkuser / cu / punishments
-- checkuserlocally / cul
+- warns
+- checkuser
+- checkuserlocally
 - tempban
 - mute
 - unmute
 - tempmute
-- clear / clean / purge / prune
+- purge
 
 ## Auto Moderation
 - message detection (log, warn, delete)
@@ -38,31 +38,32 @@
 - koala
 - horse
 - topic
-- randommeme / rm / meme
-- soundboard / sb
+- randommeme
+- soundboard
 
 ## Utilities
-- userinfo / ui
-- serverinfo / si
+- userinfo
+- serverinfo
+- avatar
 
 ## Economy
-- balance / bal
-- buy / purchase
+- balance
+- buy
 - sell
 - fish
 - work
 - hunt
 
 ## Game Stats
-- fortnite / fn
-- apex legends / al
-- runescape / rs
-- minecraft / mc
-- warframe / wf
-- pokemon / poke / pm
-- animal crossing - ac
-- valorant / valor
-- overwatch / ow
+- fortnite
+- apex legends
+- runescape
+- minecraft
+- warframe
+- pokemon
+- animalcrossing
+- valorant
+- overwatch
 - csgo
 - pubg
 
@@ -75,16 +76,16 @@
 - flip
 - mirror
 - rotate
-- brightness / bright
+- brightness
 - contrast
 - dither
 - invert
 - normalize
 - magik
-- fade / opacity
-- gaussianblur / gaussian / gb
+- fade
+- gaussianblur
 - blur
-- pixelate / pixel
+- pixelate
 
 ## Notifications
 - twitch
@@ -98,3 +99,29 @@
 - stop
 - resume
 - volume
+- join
+- leave
+- loop
+- shuffle
+- skip
+- nowplaying
+- queue
+
+## Leveling
+- level
+- profile
+- top
+- topglobal
+
+## Self-Roles
+- iam
+- iamnot
+- listroles
+
+## Role Management
+- addrole
+- removerole
+
+## Reaction Roles
+- addreactionrole
+- removereactionrole
