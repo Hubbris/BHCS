@@ -76,3 +76,10 @@
 - twitter
 - reddit
 - youtube
+
+## Music
+- play
+- pause
+- stop
+- resume
+- volume
