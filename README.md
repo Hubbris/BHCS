@@ -70,6 +70,21 @@
 - greyscale
 - sepia
 - blurple
+- quality
+- resize
+- flip
+- mirror
+- rotate
+- brightness / bright
+- contrast
+- dither
+- invert
+- normalize
+- magik
+- fade / opacity
+- gaussianblur / gaussian / gb
+- blur
+- pixelate / pixel
 
 ## Notifications
 - twitch
